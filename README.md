@@ -1,9 +1,9 @@
 # flashserver
-flashserver 是分布式快速处理的服务器框架，所有数据均存储在redis（后续版本flashserver2将增加kafka+mysql永久存储方案）。
+flashserver is a distributed and fast processing server framework, all data is stored in redis (following version flashserver2 will add kafka + mysql permanent storage solution).
 
-可用作游戏服务器，app服务器，web服务器器等使用场景，具体可变更相关模块适配。
+It can be used as a game server, app server, web server, etc., and the specific module can be modified to adapt.
 
-该框架分go版本和c++版本。
+The framework is divided into go version and c ++ version.
 
-此版本将以射击类型的demo游戏方案进行业务搭建。
+This version will use the shooting type demo game plan to build the business.
 ![frame](https://github.com/wucanghai/flashserver/blob/master/frame.png)
